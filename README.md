@@ -33,6 +33,8 @@ fonts
 | 中文  | YouSheBiaoTiHei |
 | 中文  | zcool-gdh |
 | 中文  | zcoolqingkehuangyouti |
+| 中文  | Glow Sans SC Extended |
+| 中文  | Glow Sans SC Normal |
 | 英文  | Inter |
 | 英文  | JetBrains Mono |
 | 英文  | Lato |

@@ -1,0 +1,23 @@
+{
+  "name": "fonts",
+  "version": "1.0.0",
+  "description": "fonts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eroszhao/fonts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eroszhao/fonts/issues"
+  },
+  "homepage": "https://github.com/eroszhao/fonts#readme",
+  "dependencies": {
+    "fontname": "^1.0.0"
+  }
+}
