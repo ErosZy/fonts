@@ -29,7 +29,7 @@ fonts
 | 中文  | MiSans |
 | 中文  | Noto Sans SC |
 | 中文  | Noto Serif SC |
-| 中文  | OPPOSans R |
+| 中文  | OPPOSans |
 | 中文  | YouSheBiaoTiHei |
 | 中文  | zcool-gdh |
 | 中文  | zcoolqingkehuangyouti |
@@ -38,8 +38,8 @@ fonts
 | 英文  | Inter |
 | 英文  | JetBrains Mono |
 | 英文  | Lato |
-| 英文  | Noto Sans |
-| 英文  | Noto Serif |
+| 英文  | Noto Sans Display, Noto Sans |
+| 英文  | Noto Serif Display, Noto Serif |
 | 英文  | Outfit |
 
 
